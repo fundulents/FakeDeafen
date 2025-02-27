@@ -16,7 +16,9 @@ A betterdiscord plugin that allows you to fake being deafened and spy on convos
 ## [HOW TO USE]
 
 **1.** Deafen in discord.
+
 **2.** Enable the plugin in your plugins tab.
+
 **3.** Undeafen, you'll now be able to hear, while others will see you as deafened.
 
 **To undo everything, you can simply disable the plugin and reset by deafen/undeafening.**
